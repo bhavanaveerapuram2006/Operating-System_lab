@@ -108,3 +108,5 @@ int main() {
         exit(0);
     }
 }
+
+![screenshot](2a.png)
