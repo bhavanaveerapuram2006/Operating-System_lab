@@ -67,5 +67,4 @@ int main() {
     return 0;
 }
 ```
-![screenshot](bhavana7a.png)
-![screenshot](bhavana7b.png)
+![screenshot](bhavana9.png)
